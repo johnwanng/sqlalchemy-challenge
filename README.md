@@ -6,6 +6,8 @@ The first part of the project uses Python and SQLAlchemy to do basic climate ana
 
 The second part of the project uses Flask API based on the queries that were previously developed in the first part.
 
+The Bonus part at the end contain two temperature analysis and their results and charts were generated from the bonus.ipynb file.
+ 
 These are Flask routes below:
 
 1. /
@@ -50,3 +52,5 @@ Flask
 4. Open the climate_starter.ipynb file and it contains python, sqlalchemy and matplotlib codes that perform the various analysis and ploting result.
 
 5. Open the app.py file and it contains Flask API based routine.
+
+6. Open the bonus.ipynb file and it contains two additional temperature analysis with their results and charts plotted. 
